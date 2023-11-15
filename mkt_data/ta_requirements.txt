@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+TA-Lib
+requests
+plotly
+yahooquery==2.3.3
