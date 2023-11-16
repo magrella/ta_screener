@@ -12,8 +12,11 @@ This guide provides step-by-step instructions for installing TA-Lib, a technical
 
 1. **Download TA-Lib C Library**
 
-   - Download the `ta-lib-0.4.0-msvc.zip` file from the official TA-Lib repository.
-   - URL: [TA-Lib](https://ta-lib.org/hdr_dw.html)
+   - Download the `ta-lib-0.4.0-msvc.zip` file from SourceForge. This file contains the TA-Lib C library files.
+   - URL: [download](http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-msvc.zip)
+   
+    You might wan to chech the official TA-Lib repository for any updates:
+   - URL: [TA-Lib](https://github.com/TA-Lib/ta-lib)
 
 2. **Extract TA-Lib**
 
