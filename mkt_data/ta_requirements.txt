@@ -4,3 +4,8 @@ TA-Lib
 requests
 plotly
 yahooquery==2.3.3
+
+
+# yahooquery wokrs better than yfinance
+# yahooquery project documentation: https://pypi.org/project/yahooquery/
+# pandas_ta project documentation: https://twopirllc.github.io/pandas-ta/
